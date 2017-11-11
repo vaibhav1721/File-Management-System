@@ -1,1 +1,2 @@
 File management Sysetem is all about the managing of file. Managing the file in the enterprise environment is a very big deal. 
+use db.php file to configure the connection in database.
